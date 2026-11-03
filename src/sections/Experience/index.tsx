@@ -46,13 +46,6 @@ export const Experience = () => {
           description="Built and maintained client systems, turning product requirements into reliable web and backend services."
           technologies={[".NET", "Web", "SQL"]}
         />
-        <ExperienceCard
-          stepNumber="04"
-          title="Android Developer"
-          company="Oasis Infobyte"
-          description="Developed Android applications with a focus on clean mobile UX and practical feature delivery."
-          technologies={["Kotlin", "Android"]}
-        />
       </div>
     </section>
   );
