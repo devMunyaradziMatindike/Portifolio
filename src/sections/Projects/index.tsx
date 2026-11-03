@@ -11,9 +11,9 @@ export const Projects = () => {
       </div>
 
       <h2 className="box-border caret-transparent text-[42px] font-bold tracking-[-1.68px] leading-[1.05] outline-[0px] no-underline mb-4 md:text-[89.6px] md:tracking-[-3.136px] font-bricolage_grotesque">
-        {"Things I've"}{" "}
+        {"Products on "}
         <i className="box-border caret-transparent text-red-800 italic outline-[0px] no-underline font-instrument_serif font-normal">
-          {"shipped."}
+          {"market."}
         </i>
       </h2>
 
